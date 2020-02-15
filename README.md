@@ -6,6 +6,6 @@
 |-----|-------|----------  | --------|--------|--------|
 |Course Introduction| Expressions and variables| While loops | Strings | OPP (optional) | Writing Scripts from the Ground Up |
 |Introduction to Programming| Functions | For loops | Lists | <a href="./week5/C1M5L2_Methods_and_Classes_V3.ipynb">class and methods</a> | Final Project |
-|Hello World| Module Review | Recursion (optional) | Dictionaries | Code Reuse | Course Wrap-up |
+|Hello World| Module Review | Recursion (optional) | Dictionaries | <a href="./week5/C1M5L3_Code_Reuse_V2.ipynb">Code Reuse</a> | Course Wrap-up |
 |Module Review| None | Module review | Module review | Module review | None |
 
