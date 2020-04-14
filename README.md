@@ -1,6 +1,5 @@
 # Crash course on Python by Google
-This is a repo for my `crash course on Python` that I've completed from Coursera website.
-We only start to use `Jupyter notebooks` on week 5 (since first weeks were a basic introduction about common topics on programming)
+This is a repo for my `crash course on Python` that I've completed from Coursera website. This course has some assignments to complete after the 4th week using `jupyter notebooks` as a way to grade them.
 ### Table of content per week
 | Week 1 | Week 2 | Week 3 |  Week 4 | Week 5 | Week 6 | 
 |-----|-------|----------  | --------|--------|--------|
