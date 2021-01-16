@@ -1,6 +1,6 @@
 # Crash course on Python by Google
 This is a repo for my `crash course on Python` that I've completed from Coursera website. This course has some assignments to complete after the 4th week using `jupyter notebooks` as a way to grade them.
-### Table of content per week
+### Table of Projects per week
 | Week 1 | Week 2 | Week 3 |  Week 4 | Week 5 | Week 6 | 
 |-----|-------|----------  | --------|--------|--------|
 |Course Introduction| Expressions and variables| While loops | Strings | <a href= "./week5/C1M5_Object_Oriented_Programming_V7.ipynb">OPP (optional)</a> | <a href="./week6/C1M6L1_Putting_It_All_Together.ipynb">Writing Scripts from the Ground Up</a> |
